@@ -19,6 +19,7 @@
 #### 2016-10
 
 - A Deep Hierarchical Approach to Lifelong Learning in Minecraft [[arXiv](https://arxiv.org/abs/1604.07255)]
+- Towards Cognitive Exploration through Deep Reinforcement Learning for Mobile Robots [[arXiv](https://arxiv.org/abs/1610.01733)]
 
 #### 2016-09
 
