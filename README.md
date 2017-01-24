@@ -57,4 +57,4 @@
 
 #### 2015-02
 
-- Human-level control through deep reinforcement learning [[nature](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)]
+- [Human-level control through deep reinforcement learning](https://github.com/camigord/DRL_papernotes/blob/master/notes/Human-level%20control%20through%20deep%20reinforcement%20learning) [[nature](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)]
