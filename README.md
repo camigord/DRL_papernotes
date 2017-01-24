@@ -1,4 +1,4 @@
-# DRL_papernotes
+# Deep Reinforcement Learning papernotes
 
 
 #### 2017-01
