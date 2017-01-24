@@ -23,7 +23,7 @@
 
 #### 2016-09
 
-- Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1609.05143)]
+- [Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning](notes/Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning.md) [[arXiv](https://arxiv.org/abs/1609.05143)]
 - Playing FPS Games with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1609.05521)]
 
 #### 2016-08
