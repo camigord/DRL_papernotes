@@ -19,5 +19,4 @@ between individual updates.
 The proposed approach learned how to play several atari games using raw images as the only input, outperforming human players in
 most of the games.
 
-
-![alt text](https://github.com/camigord/DRL_papernotes/tree/master/assets/nature1.JPG)
+![model](assets/model.png)
