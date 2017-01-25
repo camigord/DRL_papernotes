@@ -41,7 +41,7 @@
 
 #### 2016-02
 
-- Prioritized Experience Replay [[arXiv](https://arxiv.org/abs/1511.05952)]
+- [Prioritized Experience Replay](https://github.com/camigord/DRL_papernotes/blob/master/notes/Prioritized%20Experience%20Replay.md) [[arXiv](https://arxiv.org/abs/1511.05952)]
 - Asynchronous Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1602.01783)]
 - Continuous control with deep reinforcement learning [[arXiv](https://arxiv.org/abs/1509.02971)]
 - Graying the black box: Understanding DQNs [[arXiv](https://arxiv.org/abs/1602.02658)]
