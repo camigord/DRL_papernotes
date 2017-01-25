@@ -20,7 +20,7 @@ of the agent. They also propose the use of Double Q-learning to alleviate this p
 </p>
 
 <p align="center">
-*"The selection of the action (inside the argmax) is still due to the online weights &theta;. ... However, we use the second set of weights &theta;' to fairly evaluate the value of this policy"*
+<i>"The selection of the action (inside the argmax) is still due to the online weights &theta;. ... However, we use the second set of weights &theta;' to fairly evaluate the value of this policy"</i>
 </p>
 
 With this relatively *small* change they were able to find better policies in many of the tested games, thus obtaining state-of-the-art results on the Atari 2600 domain.
