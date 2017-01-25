@@ -48,7 +48,7 @@
 
 #### 2015-12
 
-- Deep Reinforcement Learning with Double Q-learning [[arXiv](https://arxiv.org/abs/1509.06461)]
+- [Deep Reinforcement Learning with Double Q-learning](https://github.com/camigord/DRL_papernotes/blob/master/notes/Deep%20Reinforcement%20Learning%20with%20Double%20Q-learning.md) [[arXiv](https://arxiv.org/abs/1509.06461)]
 - Deep Attention Recurrent Q-Network [[arXiv](https://arxiv.org/abs/1512.01693)]
 
 #### 2015-11
