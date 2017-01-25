@@ -13,7 +13,7 @@
 #### 2016-11
 
 - Reinforcement Learning with Unsupervised Auxiliary Tasks [[arXiv](https://arxiv.org/abs/1611.05397)]
-- Learning to Navigate in Complex Environments [[arXiv](https://arxiv.org/abs/1611.03673)]
+- [Learning to Navigate in Complex Environments](https://github.com/camigord/DRL_papernotes/blob/master/notes/Learning%20to%20Navigate%20in%20Complex%20Environments.md) [[arXiv](https://arxiv.org/abs/1611.03673)]
 - Learning to reinforcement learn [[arXiv](https://arxiv.org/abs/1611.05763)]
 
 #### 2016-10
