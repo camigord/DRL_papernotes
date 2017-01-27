@@ -7,7 +7,7 @@
 
 #### 2016-12
 
-- Playing Doom with SLAM-Augmented Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1612.00380)]
+- [Playing Doom with SLAM-Augmented Deep Reinforcement Learning](https://github.com/camigord/DRL_papernotes/blob/master/notes/Playing%20Doom%20with%20SLAM-Augmented%20Deep%20Reinforcement%20Learning.md) [[arXiv](https://arxiv.org/abs/1612.00380)]
 - Learning to predict where to look in interactive environments using deep recurrent q-learning [[arXiv](https://arxiv.org/abs/1612.05753)]
 
 #### 2016-11
