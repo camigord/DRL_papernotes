@@ -53,7 +53,7 @@
 
 #### 2015-11
 
-- Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control [[arXiv](https://arxiv.org/abs/1511.03791)]
+- [Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control](https://github.com/camigord/DRL_papernotes/blob/master/notes/Towards%20Vision-Based%20Deep%20Reinforcement%20Learning%20for%20Robotic%20Motion%20Control.md) [[arXiv](https://arxiv.org/abs/1511.03791)]
 
 #### 2015-02
 
