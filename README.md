@@ -32,7 +32,7 @@
 
 #### 2016-05
 
-- [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://github.com/camigord/DRL_papernotes/blob/master/notes/Hierarchical%20Deep%20Reinforcement%20Learning:%20Integrating%20Temporal%20Abstraction%20and%20Intrinsic%20Motivation.md) [[arXiv](https://arxiv.org/abs/1604.06057)]
+- [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://github.com/camigord/DRL_papernotes/blob/master/notes/Hierarchical%20Deep%20Reinforcement%20Learning.md) [[arXiv](https://arxiv.org/abs/1604.06057)]
 - Value Iteration Networks [[arXiv](https://arxiv.org/abs/1602.02867)]
 
 #### 2016-04
