@@ -28,7 +28,7 @@
 
 #### 2016-08
 
-- Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection [[arXiv](https://arxiv.org/abs/1603.02199)]
+- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://github.com/camigord/DRL_papernotes/blob/master/notes/Learning%20Hand-Eye%20Coordination%20for%20Robotic%20Grasping%20with%20Deep%20Learning%20and%20Large-Scale%20Data%20Collection.md) [[arXiv](https://arxiv.org/abs/1603.02199)]
 
 #### 2016-05
 
