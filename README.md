@@ -25,6 +25,7 @@
 
 #### 2016-10
 
+- [Hybrid computing using a neural network with dynamic external memory](https://github.com/camigord/DRL_papernotes/blob/master/notes/Hybrid%20computing%20using%20NN%20with%20dynamic%20external%20memory.md) [[nature](http://www.nature.com/nature/journal/v538/n7626/abs/nature20101.html)]
 - A Deep Hierarchical Approach to Lifelong Learning in Minecraft [[arXiv](https://arxiv.org/abs/1604.07255)]
 - Towards Cognitive Exploration through Deep Reinforcement Learning for Mobile Robots [[arXiv](https://arxiv.org/abs/1610.01733)]
 
