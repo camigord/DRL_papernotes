@@ -3,6 +3,10 @@
 #### 2017-03
 - [Virtual-to-real Deep Reinforcement Learning: Continuous Control of Mobile Robots for Mapless Navigation](https://github.com/camigord/DRL_papernotes/blob/master/notes/Virtual-to-real%20%20Deep%20%20Reinforcement%20%20Learning.md) [[arXiv](https://arxiv.org/abs/1703.00420)]
 
+#### 2017-02
+
+- [Neural Map : Structured Memory for Deep Reinforcement Learning](https://github.com/camigord/DRL_papernotes/blob/master/notes/NeuralMapDRL.md) [[arXiv](https://arxiv.org/abs/1702.08360)]
+
 #### 2017-01
 
 - Deep Recurrent Q-Learning for Partially Observable MDPs [[arXiv](https://arxiv.org/abs/1507.06527)]
