@@ -31,7 +31,7 @@
 
 #### 2016-09
 
-- [Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning](notes/Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning.md) [[arXiv](https://arxiv.org/abs/1609.05143)]
+- [Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning](https://github.com/camigord/DRL_papernotes/blob/master/notes/Target-driven%20Visual%20Navigation%20in%20Indoor%20Scenes%20using%20Deep%20Reinforcement%20Learning.md) [[arXiv](https://arxiv.org/abs/1609.05143)]
 - Playing FPS Games with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1609.05521)]
 
 #### 2016-08
@@ -65,5 +65,4 @@
 
 #### 2015-02
 
-- [Human-level control through deep reinforcement learning](notes/Human-level control through deep reinforcement learning.md
-) [[nature](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)]
+- [Human-level control through deep reinforcement learning](https://github.com/camigord/DRL_papernotes/blob/master/notes/Human-level%20control%20through%20deep%20reinforcement%20learning.md) [[nature](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)]
