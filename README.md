@@ -1,6 +1,11 @@
 # Deep Reinforcement Learning papernotes
 
+
+#### 2017-05
+- [Curiosity-driven Exploration by Self-supervised Prediction](./notes/Intrinsic%20Motivation/Curiosity-driven%20Exploration%20by%20self-supervised%20prediction.md) [[arXiv](https://arxiv.org/abs/1705.05363)]
+
 #### 2017-03
+- [Surprised-Based Intrinsic Motivation for Deep Reinforcement Learning](./notes/Intrinsic%20Motivation/Surprised-based%20intrinsic%20motivation%20for%20DRL.md)[[arXiv](https://arxiv.org/abs/1703.01732)]
 - [Virtual-to-real Deep Reinforcement Learning: Continuous Control of Mobile Robots for Mapless Navigation](https://github.com/camigord/DRL_papernotes/blob/master/notes/Virtual-to-real%20%20Deep%20%20Reinforcement%20%20Learning.md) [[arXiv](https://arxiv.org/abs/1703.00420)]
 
 #### 2017-02

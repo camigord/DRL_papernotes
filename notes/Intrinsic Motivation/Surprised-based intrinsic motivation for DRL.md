@@ -31,3 +31,7 @@
 - They discussed that, ideally, as the model learns the transition dynamics of the environment, the intrinsic rewards should decrease to 0. This is true for the second method but not necessarily for the first one where the system could try to reach the states with the noisiest transitions.
 - They normalize the intrinsic reward by keeping it upper-bounded thus keeping its scale fixed with respect to the extrinsic reward. This seems to improve the stability of the algorithm.
 - They concluded that surprisal (1st method) worked better than learning progress (2nd method).
+
+## Future work:
+
+  - How to better represent _learning progress_.
