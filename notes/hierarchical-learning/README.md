@@ -27,6 +27,10 @@
 - The Option-Critic Architecture[[arXiv](https://arxiv.org/abs/1609.05140)]
 
 #### 2016-04
-- [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](./hierarchical-learning/HierarchicalDeepReinforcementLearningIntegratingTemporalAbstractionIntrinsicMotivation.md)[[arXiv](https://arxiv.org/abs/1604.06057)]
+- [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](./HierarchicalDeepReinforcementLearningIntegratingTemporalAbstractionIntrinsicMotivation.md)[[arXiv](https://arxiv.org/abs/1604.06057)]
 
 - A Deep Hierarchical Approach to Lifelong Learning in Minecraft [[arXiv](https://arxiv.org/abs/1604.07255)]
+
+/hierarchical-learning/hierarchical-learning/HierarchicalDeepReinforcementLearningIntegratingTemporalAbstractionIntrinsicMotivation.md
+
+hierarchical-learning/HierarchicalDeepReinforcementLearningIntegratingTemporalAbstractionIntrinsicMotivation.md
