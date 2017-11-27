@@ -1,12 +1,13 @@
 # Hierarchical-Learning papernotes
 ---
 
-### Importance(?)
 
   - Learning from sparse feedback from complex environments is challenging. Requires very efficient exploration strategies.
 
+  - Long-term credit assignment remains a major challenge.
+
 ### Papers:
----
+
 #### 2017-10
 - Meta Learning Shared Hierarchies[[arXiv](https://arxiv.org/abs/1710.09767)]
 
@@ -21,7 +22,7 @@
 #### 2017-03
 - Multi-Level Discovery of Deep Options[[arXiv](https://arxiv.org/abs/1703.08294)]
 
-- FeUdal Networks for Hierarchical Reinforcement Learning[[arXiv](https://arxiv.org/abs/1703.01161)]
+- [FeUdal Networks for Hierarchical Reinforcement Learning](./FeUdal.md)[[arXiv](https://arxiv.org/abs/1703.01161)]
 
 #### 2016-09
 - The Option-Critic Architecture[[arXiv](https://arxiv.org/abs/1609.05140)]
