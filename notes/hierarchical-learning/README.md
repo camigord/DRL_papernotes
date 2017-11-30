@@ -17,7 +17,7 @@
 - Learning Goal-Directed Behaviour[[Pdf](http://kth.diva-portal.org/smash/get/diva2:1136420/FULLTEXT01.pdf)]
 
 #### 2017-05
-- Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning[[arXiv](https://arxiv.org/abs/1705.06769)]
+- [Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning](./FeatureControlasIntrinsicMotivation.md)[[arXiv](https://arxiv.org/abs/1705.06769)]
 
 #### 2017-03
 - Multi-Level Discovery of Deep Options[[arXiv](https://arxiv.org/abs/1703.08294)]
