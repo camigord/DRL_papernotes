@@ -1,5 +1,7 @@
 # Deep Reinforcement Learning papernotes
 
+> _New Hierarchical-Learning section [here](./notes/hierarchical-learning/)._
+
 
 #### 2017-05
 - [Curiosity-driven Exploration by Self-supervised Prediction](./notes/Intrinsic%20Motivation/Curiosity-driven%20Exploration%20by%20self-supervised%20prediction.md) [[arXiv](https://arxiv.org/abs/1705.05363)]
