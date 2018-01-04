@@ -30,4 +30,4 @@
 #### 2016-04
 - [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](./HierarchicalDeepReinforcementLearningIntegratingTemporalAbstractionIntrinsicMotivation.md)[[arXiv](https://arxiv.org/abs/1604.06057)]
 
-- [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](./lifelong_minecraft.md) [[arXiv](https://arxiv.org/abs/1604.07255)]
+- [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](./Lifelong_Minecraft.md) [[arXiv](https://arxiv.org/abs/1604.07255)]
